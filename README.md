@@ -40,6 +40,7 @@ Why figma?
         * git config --global user.email "janedoe@gmail.com"
         * git config --global user.name "Jane Doe"
     * }
+1. cd reactworkshop
 1. npm install
 1. npm start
 </details>
