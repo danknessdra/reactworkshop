@@ -27,7 +27,7 @@ Show figma and explain what wire frame is
 <details>
 <summary style= "font-size: 2rem"> Please don't open these before we tell you too </summary>
 
-[![rick roll](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![rick roll](/public/logo.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 </details>
 
 <details>
