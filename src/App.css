@@ -1,4 +1,13 @@
 .row {
   background-color: rgb(219, 186, 124);
-  margin-bottom: 5%;
+  margin-bottom: 2%;
+}
+
+.shop{
+  margin-left: 50%;
+  margin-bottom:2.7%;
+  margin-top:2.3%;
+}
+.card{
+  margin-top:5%;
 }
