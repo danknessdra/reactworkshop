@@ -67,7 +67,7 @@ Why figma?
 * What is flex
     * a div with a css property allowing unique functionality
     * flexible container for holding items and automatically allocating space
-
+    * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 You have been provided a product component. Make use of `<div>`, `<hr>`, and `<Product>`.
 </details>
 
